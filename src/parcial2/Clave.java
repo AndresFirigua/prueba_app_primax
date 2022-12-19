@@ -4,6 +4,7 @@ import javax.swing.JOptionPane;
 
 public class Clave {
 
+    //NUEVO CAMBIO PARA AZURE
     //Cambio etc
     //Definición de atributos
     
