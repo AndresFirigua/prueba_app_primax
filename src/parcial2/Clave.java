@@ -4,7 +4,9 @@ import javax.swing.JOptionPane;
 
 public class Clave {
 
+    //Cambio etc
     //Definición de atributos
+    
     private int miClave = 1234, clave, saldo, deposito, retiro, servicio, opc;
 
     public Clave() {
